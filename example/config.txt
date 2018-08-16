@@ -1,0 +1,2 @@
+Prefix plugins/LogTransform/example/
+Plugin LogTransform inputfile abund.csv outputfile abund.logtransform.csv
