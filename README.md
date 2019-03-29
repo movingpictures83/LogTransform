@@ -2,7 +2,7 @@
 # Language: Python
 # Input: CSV (data to be transformed)
 # Output: CSV (log-transformed data)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.0, Python 3.6
 
 PluMA plugin that takes a CSV file of data values and produces another CSV file
 with these values log-transformed.
